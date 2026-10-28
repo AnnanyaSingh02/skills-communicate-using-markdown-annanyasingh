@@ -63,7 +63,7 @@ Practice Python and C++ regularly through coding challenges and independent exer
 
 Personal projects demonstrate your ability to apply programming and mathematical concepts to realistic financial problems. Backtesting systems and market-data analysis tools provide opportunities to practice implementing and evaluating quantitative models.[^2]
 
-![Five-stage process for validating a quantitative trading strategy](images/quantitative-strategy-validation.png)
+![Five-stage process for validating a quantitative trading strategy](quantitative-strategy-validation.png)
 
 Figure 1 shows how a Quantitative Developer tests a trading strategy using historical market data. Separating development and testing data helps reduce look-ahead bias and reveals whether the strategy performs on previously unseen market conditions.
 
