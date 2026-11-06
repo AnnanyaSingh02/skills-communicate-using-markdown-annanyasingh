@@ -4,7 +4,7 @@
 
 **Prepared by:** Annanya Singh 
 
-**Date:** October 27, 2026
+**Date:** November 5, 2026
 
 
 ## Table of Contents
@@ -116,9 +116,9 @@ Schedule mock interviews through the [UW Career & Internship Center](https://car
 
 
 
-[^1]: JPMorgan Chase & Co., "Quantitative Trading & Research, Quantitative Developer - Associate," *JPMorgan Chase Careers*. [Online]. Available: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210789767/
+[^1]: JPMorgan Chase & Co., "Quantitative Trading & Research, Quantitative Developer - Associate," *JPMorgan Chase Careers*. [Online]. Available: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210789767/. Accessed Nov. 5, 2026.
 
-[^2]: IMC Trading, "Quantitative Developer," *IMC Careers*. [Online]. Available: https://www.imc.com/us/careers/jobs/4778139101
+[^2]: IMC Trading, "Quantitative Developer," *IMC Careers*. [Online]. Available: https://www.imc.com/us/careers/jobs/4778139101. Accessed Nov. 5, 2026.
 
 [^3]: MathWorks, "Financial Toolbox Documentation," *MathWorks*. [Online]. Available: https://www.mathworks.com/help/finance/. Accessed: Oct. 27, 2026.
 
