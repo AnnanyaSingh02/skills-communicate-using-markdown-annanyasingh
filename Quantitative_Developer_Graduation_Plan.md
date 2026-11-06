@@ -25,7 +25,7 @@
 
 ## Purpose
 
-Breaking into quantitative development can be challenging because employers expect candidates to demonstrate strong programming abilities, mathematical reasoning, and an understanding of financial markets. Completing a computer science degree alone may not provide enough practical experience to meet these expectations. To remain competitive, you must strategically select coursework, develop technical skills, and pursue professional opportunities before graduation. This graduation learning plan outlines best practices for strengthening your academic foundation, building a technical portfolio, and preparing for internships and full-time quantitative development positions.
+Breaking into quantitative development can be challenging because employers expect candidates to demonstrate strong programming abilities, mathematical reasoning, and an understanding of financial markets. Completing a computer science degree alone may not provide enough practical experience to meet these expectations. To remain competitive, you must strategically select coursework, develop technical skills, and pursue professional opportunities before graduation. This graduation learning plan outlines best practices for strengthening your academic foundation, building a technical portfolio, and preparing for internships and full time quantitative development positions.
 
 
 
@@ -44,7 +44,7 @@ Prioritize courses in probability, statistics, linear algebra, and calculus to s
 
 Programming and financial knowledge complement mathematical skills in quantitative development. Courses involving data structures, algorithms, databases, and financial markets help you understand both the software and its applications.
 
-Select computer science electives focused on algorithms, data structures, databases, and software development. Consider introductory finance courses to become familiar with financial markets and investment concepts. Prioritize courses offering hands-on programming projects that demonstrate your ability to apply technical knowledge.
+Select computer science electives focused on algorithms, data structures, databases, and software development. Consider introductory finance courses to become familiar with financial markets and investment concepts. Prioritize courses offering hands on programming projects that demonstrate your ability to apply technical knowledge.
 
 Consult your academic advisor to confirm prerequisites and ensure your selected courses align with your graduation timeline.
 
@@ -55,7 +55,7 @@ Quantitative development requires programming proficiency and practical problem-
 
 ### Mastering Programming Languages
 
-Python supports financial data analysis and model development, while C++ is valuable for building high-performance trading systems. Employers also emphasize efficient algorithms, data structures, and software reliability.[^1]
+Python supports financial data analysis and model development, while C++ is valuable for building high performance trading systems. Employers also emphasize efficient algorithms, data structures, and software reliability.[^1]
 
 Practice Python and C++ consistently through coding challenges, independent projects, and coursework. Use platforms such as [LeetCode](https://leetcode.com/) to strengthen your understanding of algorithms and data structures. Focus on improving code efficiency, readability, and reliability while developing solutions to increasingly complex problems.
 
@@ -95,7 +95,7 @@ Use the [University of Washington Career & Internship Center](https://careers.uw
 
 ### Preparing for Technical Interviews
 
-Quantitative development interviews may assess programming, algorithms, probability, and problem-solving skills. Consistent preparation helps you communicate your reasoning and solve unfamiliar technical challenges.
+Quantitative development interviews may assess programming, algorithms, probability, and problem solving skills. Consistent preparation helps you communicate your reasoning and solve unfamiliar technical challenges.
 
 Practice technical interview questions involving algorithms, data structures, probability, and mathematical reasoning. Use coding platforms such as LeetCode to develop your problem-solving skills and become comfortable explaining solutions under time constraints.
 
