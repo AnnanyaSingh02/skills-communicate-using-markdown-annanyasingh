@@ -163,4 +163,4 @@ Complete three probability practice problems each week. Document your mathematic
 
 [^4]: Citadel, "A Day with Jonathan: Inside a Quantitative Development Internship at Citadel," *Citadel*, 22 July 2026. [Online]. Available: https://www.citadel.com/careers/career-perspectives/a-day-with-jonathan-intern/. [Accessed Oct. 27, 2026].
 
-[Word Count: 
+Word Count: 667
