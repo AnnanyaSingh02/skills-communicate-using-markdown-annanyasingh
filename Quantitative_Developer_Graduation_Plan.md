@@ -15,147 +15,152 @@
 
 ## Table of Contents
 
-- [Purpose](#purpose)
-- [Selecting Relevant Coursework](#selecting-relevant-coursework)
+- **[Purpose](#purpose)**
+- **[Selecting Relevant Coursework](#selecting-relevant-coursework)**
   - [Strengthening Mathematical Foundations](#strengthening-mathematical-foundations)
-  - [Selecting Computer Science Courses](#selecting-computer-science-courses)
-  - [Developing Financial Knowledge](#developing-financial-knowledge)
-- [Developing Technical Skills](#developing-technical-skills)
-  - [Mastering Programming Languages](#mastering-programming-languages)
-  - [Building Quantitative Projects](#building-quantitative-projects)
+  - [Developing Computational Knowledge](#developing-computational-knowledge)
+- **[Developing Technical Skills](#developing-technical-skills)**
+  - [Strengthening Programming Proficiency](#strengthening-programming-proficiency)
+  - [Building a Quantitative Project](#building-a-quantitative-project)
   - [Documenting Technical Projects](#documenting-technical-projects)
-- [Gaining Professional Experience](#gaining-professional-experience)
+- **[Gaining Professional Experience](#gaining-professional-experience)**
   - [Pursuing Relevant Internships](#pursuing-relevant-internships)
-  - [Preparing for Technical Interviews](#preparing-for-technical-interviews)
-  - [Evaluating Interview Performance](#evaluating-interview-performance)
-- [References](#references)
+  - [Building Professional Connections](#building-professional-connections)
+- **[Preparing for Technical Interviews](#preparing-for-technical-interviews)**
+  - [Practicing Algorithmic Problem-Solving](#practicing-algorithmic-problem-solving)
+  - [Developing Probabilistic Reasoning](#developing-probabilistic-reasoning)
+- **[References](#references)**
 
 ---
 
 ## Purpose
 
-Breaking into quantitative development requires more than completing a computer science degree. Employers expect you to demonstrate programming proficiency, mathematical reasoning, and an understanding of financial markets. Without practical experience, you may struggle to distinguish yourself from other qualified graduates. This graduation learning plan provides best practices for strengthening your academic foundation, building a technical portfolio, and developing the professional qualifications necessary to compete for quantitative development positions before graduation.
+Breaking into quantitative development can be challenging because employers expect you to demonstrate programming proficiency, mathematical reasoning, and an understanding of financial markets. Completing a computer science degree alone may not provide sufficient practical experience to meet these expectations. By strategically developing your academic knowledge, technical portfolio, and professional experience before graduation, you strengthen your qualifications and distinguish yourself from other applicants. This graduation learning plan outlines best practices for preparing for internships and full-time quantitative development positions.
 
 ## Selecting Relevant Coursework
 
-Build an academic foundation that connects computer science, mathematics, and financial applications.
+Your coursework establishes the mathematical and computational foundation necessary for developing reliable financial software.
 
 ### Strengthening Mathematical Foundations
 
-Quantitative developers rely on mathematical concepts to implement financial models and evaluate investment risk. Employers value mathematical reasoning because inaccuracies in financial calculations can influence trading decisions and financial outcomes.[^3]
+Quantitative development involves implementing financial models that depend on mathematical accuracy. Understanding probability, statistics, linear algebra, and calculus helps you evaluate financial calculations and recognize errors that could compromise trading decisions.[^1]
 
-Complete coursework in probability, statistics, linear algebra, and calculus before graduation. Apply mathematical concepts to programming assignments involving financial data.
+Complete coursework in calculus, linear algebra, probability, and statistics before graduation. Incorporate these mathematical concepts into programming assignments involving financial calculations and data analysis.
 
-### Selecting Computer Science Courses
+### Developing Computational Knowledge
 
-Trading systems process substantial amounts of information under strict performance requirements. Employers value knowledge of algorithms and data structures because inefficient implementations can increase processing time and operational costs.[^1]
+Financial software processes substantial amounts of data under performance constraints. Knowledge of algorithms and data structures enables you to develop efficient software without unnecessary computational costs.
 
-Complete courses in data structures, algorithms, databases, and software engineering. Confirm course prerequisites and graduation requirements with your academic advisor.
-
-### Developing Financial Knowledge
-
-Understanding financial markets allows you to develop software that supports meaningful trading decisions rather than simply performing calculations. Financial knowledge also helps you recognize when computational results are inconsistent with market behavior.
-
-Complete an introductory finance course covering financial markets, investment principles, and portfolio management. Connect these concepts to your programming assignments.
+Prioritize computer science electives in algorithms, data structures, and database systems. Confirm your course sequencing with your academic advisor before registering each quarter.
 
 ## Developing Technical Skills
 
-Strengthen your programming abilities through consistent practice and independent development projects.
+Independent technical development strengthens your ability to apply classroom knowledge to practical financial problems.
 
-### Mastering Programming Languages
+### Strengthening Programming Proficiency
 
-Python supports financial data analysis, while C++ enables performance-sensitive trading infrastructure. Employers value proficiency in both languages because quantitative development requires analytical flexibility and computational efficiency.[^1]
+Python supports financial data analysis, while C++ enables the development of high-performance trading systems. Employers value proficiency in these languages because quantitative software requires computational efficiency and reliable implementation.[^2]
 
-Practice Python and C++ daily through programming exercises on [LeetCode](https://leetcode.com/). Evaluate your solutions for execution time, memory usage, and readability.
+Develop your financial programming skills through Python projects and reinforce your C++ proficiency through coursework and daily programming practice.
 
-### Building Quantitative Projects
+### Building a Quantitative Project
 
-Independent projects demonstrate your ability to translate mathematical concepts into functional software. Employers value this experience because quantitative developers must implement, test, and maintain financial applications.[^2]
+A financial programming project demonstrates your ability to translate mathematical concepts into functioning software. Employers can evaluate your technical reasoning through the organization and accuracy of your implementation.[^3]
 
-Develop a portfolio analysis application using historical stock market data. Calculate investment returns, evaluate portfolio performance, and test your calculations against expected results.
+Develop a Python-based stock portfolio analysis application. Incorporate the computational relationships illustrated in Figure 1 to connect investment inputs, financial calculations, and portfolio performance.
 
-### Documenting Technical Projects
-
-Technical documentation allows employers to evaluate your reasoning, development decisions, and ability to communicate complex information. It also helps other developers understand and reproduce your work.
-
-Publish your portfolio analysis application on [GitHub](https://github.com/). Include installation instructions, calculation methods, testing results, assumptions, and project limitations in the repository's README file.
-
-## Gaining Professional Experience
-
-Translate your academic knowledge and technical abilities into qualifications that demonstrate workplace readiness.
-
-### Pursuing Relevant Internships
-
-Quantitative development internships expose you to production software, collaborative development, and financial systems. Employers value internship experience because it demonstrates your ability to apply technical knowledge under professional constraints.[^4]
-
-Search for quantitative development internships weekly. Tailor your resume to emphasize your financial programming project and relevant coursework. Schedule a resume review through the [University of Washington Career & Internship Center](https://careers.uw.edu/) before submitting applications.
-
-### Preparing for Technical Interviews
-
-Employers use technical interviews to evaluate whether you can develop efficient solutions, identify computational limitations, and communicate your reasoning. Programming and algorithm questions assess your ability to build reliable software, while probability questions evaluate your ability to reason about uncertainty in financial systems.
-
-Complete one timed technical interview problem daily. Explain your reasoning aloud, implement your solution, and evaluate its time and space complexity.
-
-### Evaluating Interview Performance
-
-Repeated practice without evaluating mistakes can reinforce ineffective problem-solving habits. Employers value candidates who identify errors, respond to feedback, and improve their solutions because these abilities support reliable software development.
-
-Follow the interview practice cycle in Figure 1. Record unsuccessful attempts, review the underlying concepts, and repeat each problem until you can produce and explain a correct, efficient solution independently.
+**Figure 1. Computational structure of a stock portfolio analysis application**
 
 ```mermaid
 flowchart TD
-    A([Start Daily Practice]) --> B[Select a Technical Problem]
-    B --> C[Attempt a Timed Solution]
-    C --> D[Test Solution Against Test Cases]
-    D --> E{Is the Solution Correct?}
+    A["Investment Inputs<br/>Stock Symbol<br/>Number of Shares<br/>Purchase Price<br/>Current Price"]
 
-    E -->|No| F[Identify Error and Review Concept]
-    F --> C
+    B["Initial Investment<br/>Shares × Purchase Price"]
 
-    E -->|Yes| G[Evaluate Time and Space Complexity]
-    G --> H{Is the Solution Efficient?}
+    C["Current Market Value<br/>Shares × Current Price"]
 
-    H -->|No| I[Optimize Algorithm]
-    I --> C
+    D["Profit or Loss<br/>Current Value − Initial Investment"]
 
-    H -->|Yes| J[Explain Solution and Reasoning]
-    J --> K{Can You Explain It Independently?}
+    E["Percentage Return<br/>(Profit or Loss ÷ Initial Investment) × 100"]
 
-    K -->|No| L[Review Logic and Reattempt Problem]
-    L --> C
+    F["Portfolio Performance Output<br/>Initial Investment<br/>Current Market Value<br/>Profit or Loss<br/>Percentage Return"]
 
-    K -->|Yes| M[Document Progress]
-    M --> N([Advance to Next Problem])
+    A --> B
+    A --> C
+    B --> D
+    C --> D
+    D --> E
+    B --> E
+    B --> F
+    C --> F
+    D --> F
+    E --> F
 
-    classDef process fill:#EAF0F6,stroke:#36536B,color:#172D40
-    classDef decision fill:#FFF3D6,stroke:#B38A35,color:#493819
-    classDef endpoint fill:#DDEDE5,stroke:#47765D,color:#234B36
-    classDef improvement fill:#F9E6E3,stroke:#AA6158,color:#65342E
+    classDef input fill:#334155,color:#ffffff,stroke:#1e293b,stroke-width:2px
+    classDef calculation fill:#dbeafe,color:#1e3a5f,stroke:#64748b,stroke-width:1px
+    classDef output fill:#334155,color:#ffffff,stroke:#1e293b,stroke-width:2px
 
-    class B,C,D,G,J,M process
-    class E,H,K decision
-    class A,N endpoint
-    class F,I,L improvement
+    class A input
+    class B,C,D,E calculation
+    class F output
 ```
 
-**Figure 1.** Technical interview practice and evaluation cycle. The decision points determine whether you need to review foundational concepts, improve algorithm efficiency, or strengthen your ability to communicate technical reasoning before advancing to a new problem.
+The computational relationships ensure that percentage returns reflect the initial investment rather than the current market value, supporting accurate performance evaluation.
 
----
+### Documenting Technical Projects
+
+Clear documentation allows employers to assess your programming decisions, reproduce your results, and understand your project's limitations. It also demonstrates the communication skills necessary for collaborative software development.
+
+Publish your completed project on [GitHub](https://github.com/). Include a README documenting the project's purpose, methodology, execution requirements, testing procedures, and limitations.
+
+## Gaining Professional Experience
+
+Professional engagement helps you understand industry expectations and apply your technical knowledge beyond academic settings.
+
+### Pursuing Relevant Internships
+
+Quantitative development internships provide exposure to production software, collaborative engineering, and financial systems operating under practical constraints.[^4] Employers value this experience because it demonstrates your ability to contribute within professional environments.
+
+Research quantitative development internships weekly and submit tailored applications that emphasize your programming experience, mathematical coursework, and financial programming project.
+
+### Building Professional Connections
+
+Professional connections provide insight into recruitment expectations and technical responsibilities that job descriptions may not fully communicate. These relationships help you identify gaps in your qualifications.
+
+Contact one University of Washington alumnus working in quantitative development each week through [LinkedIn](https://www.linkedin.com/). Use informational interviews to identify technical competencies and recruitment expectations relevant to your career goals.
+
+## Preparing for Technical Interviews
+
+Technical interviews allow employers to evaluate how effectively you apply your knowledge to unfamiliar problems.
+
+### Practicing Algorithmic Problem-Solving
+
+Employers evaluate algorithmic reasoning because inefficient software can increase processing delays and computational costs in trading systems. Explaining your reasoning also demonstrates your ability to communicate technical decisions during collaborative development.
+
+Complete one algorithms or data structures problem daily on [LeetCode](https://leetcode.com/). Explain your solution, evaluate its time and space complexity, and document recurring mistakes for weekly review.
+
+### Developing Probabilistic Reasoning
+
+Employers assess probability skills because financial markets operate under uncertainty. Strong probabilistic reasoning helps you understand financial models, identify inaccurate assumptions, and evaluate potential outcomes without treating uncertain predictions as guaranteed results.
+
+Complete three probability practice problems each week. Document your mathematical reasoning and review incorrect solutions to identify weaknesses in your understanding.
 
 ## References
 
-[1] JPMorgan Chase & Co., "Quantitative Trading & Research, Quantitative Developer - Associate," *JPMorgan Chase Careers*, n.d. [Online]. Available: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210789767/. [Accessed Nov. 5, 2026].
+[1] MathWorks, "Financial Toolbox Documentation," *MathWorks*, n.d. [Online]. Available: https://www.mathworks.com/help/finance/. [Accessed Oct. 27, 2026].
 
-[2] IMC Trading, "Quantitative Developer," *IMC Careers*, n.d. [Online]. Available: https://www.imc.com/us/careers/jobs/4778139101. [Accessed Nov. 5, 2026].
+[2] JPMorgan Chase & Co., "Quantitative Trading & Research, Quantitative Developer - Associate," *JPMorgan Chase Careers*, n.d. [Online]. Available: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210789767/. [Accessed Nov. 5, 2026].
 
-[3] MathWorks, "Financial Toolbox Documentation," *MathWorks*, n.d. [Online]. Available: https://www.mathworks.com/help/finance/. [Accessed Oct. 27, 2026].
+[3] IMC Trading, "Quantitative Developer," *IMC Careers*, n.d. [Online]. Available: https://www.imc.com/us/careers/jobs/4778139101. [Accessed Nov. 5, 2026].
 
 [4] Citadel, "A Day with Jonathan: Inside a Quantitative Development Internship at Citadel," *Citadel*, 22 July 2026. [Online]. Available: https://www.citadel.com/careers/career-perspectives/a-day-with-jonathan-intern/. [Accessed Oct. 27, 2026].
 
-[^1]: JPMorgan Chase & Co., "Quantitative Trading & Research, Quantitative Developer - Associate," *JPMorgan Chase Careers*, n.d.
+[^1]: MathWorks, "Financial Toolbox Documentation," *MathWorks*, n.d. [Online]. Available: https://www.mathworks.com/help/finance/. [Accessed Oct. 27, 2026].
 
-[^2]: IMC Trading, "Quantitative Developer," *IMC Careers*, n.d.
+[^2]: JPMorgan Chase & Co., "Quantitative Trading & Research, Quantitative Developer - Associate," *JPMorgan Chase Careers*, n.d. [Online]. Available: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210789767/. [Accessed Nov. 5, 2026].
 
-[^3]: MathWorks, "Financial Toolbox Documentation," *MathWorks*, n.d.
+[^3]: IMC Trading, "Quantitative Developer," *IMC Careers*, n.d. [Online]. Available: https://www.imc.com/us/careers/jobs/4778139101. [Accessed Nov. 5, 2026].
 
-[^4]: Citadel, "A Day with Jonathan: Inside a Quantitative Development Internship at Citadel," *Citadel*, 22 July 2026.
+[^4]: Citadel, "A Day with Jonathan: Inside a Quantitative Development Internship at Citadel," *Citadel*, 22 July 2026. [Online]. Available: https://www.citadel.com/careers/career-perspectives/a-day-with-jonathan-intern/. [Accessed Oct. 27, 2026].
+
+[Word Count: 
