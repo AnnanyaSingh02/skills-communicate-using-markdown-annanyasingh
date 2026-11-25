@@ -7,7 +7,7 @@
 
 **Date:** November 24, 2026
 
-![Financial stock market analysis](cover.jpg)
+![Financial stock market analysis](cover.png)
 
 *© 2020 Kaptan Ravi Thakkar. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Stocks-market.jpg). Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
