@@ -9,7 +9,7 @@
 
 ![Financial stock market analysis](cover.png)
 
-*© 2020 Kaptan Ravi Thakkar. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Stocks-market.jpg). 
+*© 2020 Kaptan Ravi Thakkar. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Stocks-market.jpg).*
 ---
 
 ## Table of Contents
